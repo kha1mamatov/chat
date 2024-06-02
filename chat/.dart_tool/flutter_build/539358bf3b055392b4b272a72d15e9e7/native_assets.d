@@ -1,0 +1,1 @@
+ /home/proxima/AppDevelopment/projects/chat/.dart_tool/flutter_build/539358bf3b055392b4b272a72d15e9e7/native_assets.yaml: 

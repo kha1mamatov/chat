@@ -1,0 +1,16 @@
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/chat
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/lib/native_assets.yaml
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/images/avatar.png
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/images/google.png
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/proxima/AppDevelopment/projects/chat/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
